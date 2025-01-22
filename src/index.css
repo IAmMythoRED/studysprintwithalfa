@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+    font-family: "Plaster";
+    src: url("Plaster-Regular"),
+    url('./assets/fonts/Plaster-Regular.ttf') format("truetype")
+}
+
+@font-face {
+    font-family: "PlayfairDisplay";
+    src: url("PlayfairDisplay-Bold"),
+    url('assets/fonts/PlayfairDisplay-Bold.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: "PlayBold";
+    src: url("Play-Bold"),
+    url('assets/fonts/Play-Bold.ttf') format('truetype')
+}
